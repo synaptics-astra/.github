@@ -8,22 +8,22 @@ Welcome to the Synaptics Astra GitHub organization. This organization hosts the 
 Getting started 
 ---------------
 
-To get started with the Synaptics Astra SDK go to the `documentation <https://syna-astra.github.io/doc/>`_.
+To get started with the Synaptics Astra SDK go to the `documentation <https://synaptics-astra.github.io/doc/>`_.
 
 Documentation
 ---------------
 
-To get learn more about the Synaptics Astra SDK go to the `documentation <https://syna-astra.github.io/doc/>`_.
+To get learn more about the Synaptics Astra SDK go to the `documentation <https://synaptics-astra.github.io/doc/>`_.
 
 How to get support
 ------------------
 
-You can ask questions in the `discussions <https://github.com/orgs/syna-astra/discussions>`_ section of this organization. 
+You can ask questions in the `discussions <https://github.com/orgs/synaptics-astra/discussions>`_ section of this organization. 
 
 How to report an issue
 ----------------------
 
-You can file issues report in the `sdk <https://github.com/syna-astra/sdk/issues>`_ repository
+You can file issues report in the `sdk <https://github.com/synaptics-astra/sdk/issues>`_ repository
 
 Contact
 -------
