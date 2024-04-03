@@ -23,9 +23,9 @@ You can ask questions in the `discussions <https://github.com/orgs/synaptics-ast
 How to report an issue
 ----------------------
 
-You can file issues report in the `sdk <https://github.com/synaptics-astra/sdk/issues>`_ repository
+You can file issues report in the `sdk <https://github.com/synaptics-astra/sdk/issues>`__ repository.
 
 Contact
 -------
 
-If you have any questions or need further information, please contact your Synaptics representative.
+If you have any questions or need further information, please contact your `Synaptics representative <https://www.synaptics.com/contact/synaptics-sales>`__.
