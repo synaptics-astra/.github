@@ -1,8 +1,3 @@
-
-  **NOTE**:
-
-  The Synaptics Astra SDK is currently in closed beta. Please make sure you have logged-in to the account that has been invited and that you have accepted the invitation.
-
 Welcome to the Synaptics Astra GitHub organization. This organization hosts the repositories related to our Yocto BSP layer and SDK package for the Synaptics Astra platform.
 
 Getting started 
