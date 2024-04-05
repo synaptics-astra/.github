@@ -10,16 +10,6 @@ Documentation
 
 To get learn more about the Synaptics Astra SDK go to the `documentation <https://synaptics-astra.github.io/doc/>`_.
 
-How to get support
-------------------
-
-You can ask questions in the `discussions <https://github.com/orgs/synaptics-astra/discussions>`_ section of this organization. 
-
-How to report an issue
-----------------------
-
-You can file issues report in the `sdk <https://github.com/synaptics-astra/sdk/issues>`__ repository.
-
 Contact
 -------
 
