@@ -1,3 +1,5 @@
+**NOTICE: Some components of the release are not published yet and will result in a 404 error: the full release will be available on 10th of April.**
+
 Welcome to the Synaptics Astra GitHub organization. This organization hosts the repositories related to our Yocto BSP layer and SDK package for the Synaptics Astra platform.
 
 Getting started 
