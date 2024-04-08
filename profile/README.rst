@@ -15,4 +15,4 @@ To get learn more about the Synaptics Astra SDK go to the `documentation <https:
 Contact
 -------
 
-If you have any questions or need further information, please contact your `Synaptics representative <https://www.synaptics.com/contact/synaptics-sales>`__.
+If you have any questions or need further information, please contact your `Synaptics representative <https://www.synaptics.com/contact/synaptics-sales?product%5B%5D=Embedded%20AI%20Processors>`__.
