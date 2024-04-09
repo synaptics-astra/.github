@@ -15,6 +15,11 @@ Releases
 
 To find pre-built images and toolchains go to the `releases page <https://github.com/synaptics-astra/sdk/releases>`_.
 
+Support
+-------
+
+You can file a support ticket on the `Synaptics support portal <http://synacsm.atlassian.net/servicedesk/customer/portal/543>`_.
+
 Contact
 -------
 
